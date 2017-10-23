@@ -1,0 +1,107 @@
+[05-27 12:55:06:103] [I] [TROUTE] [---] [G:____:AP:_____] - trace period dtime=[21095(sec)]
+[05-27 12:55:06:103] [I] [TROUTE] [---] [G:____:AP:_____] - period set: all aps
+[05-27 12:55:08:578] [I] [TROUTE] [---] [G:____:AP:_____] - trace period dtime=[180(sec)]
+[05-27 12:55:08:578] [I] [TROUTE] [---] [G:____:AP:_____] - period set: all aps
+[05-27 12:58:09:714] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [0] call traceroute..
+[05-27 12:58:09:715] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [1] call traceroute..
+[05-27 12:58:09:715] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [2] call traceroute..
+[05-27 12:58:09:715] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: timer add..
+[05-27 12:58:15:721] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [3] call traceroute..
+[05-27 12:58:15:721] [I] [TROUTE] [---] [G:____:AP:_____] - period set: all aps
+[05-27 12:58:15:721] [I] [TROUTE] [---] [G:____:AP:_____] - trace period dtime=[91503(sec)]
+
+
+[05-27 13:05:35:767] [I] [TROUTE] [---] [G:____:AP:_____] - trace period dtime=[180(sec)]
+[05-27 13:05:35:767] [I] [TROUTE] [---] [G:____:AP:_____] - period set: all aps
+[05-27 13:08:36:350] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [0] call traceroute..
+[05-27 13:08:36:350] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [1] call traceroute..
+[05-27 13:08:36:350] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [2] call traceroute..
+[05-27 13:08:36:351] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: timer add..
+[05-27 13:08:42:356] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [3] call traceroute..
+[05-27 13:08:42:357] [I] [TROUTE] [---] [G:____:AP:_____] - period set: all aps
+[05-27 13:08:42:357] [I] [TROUTE] [---] [G:____:AP:_____] - trace period dtime=[95715(sec)]
+
+
+[05-27 13:19:59:278] [I] [TROUTE] [---] [G:____:AP:_____] - trace period dtime=[180(sec)]
+[05-27 13:19:59:278] [I] [TROUTE] [---] [G:____:AP:_____] - period set: all aps
+[05-27 13:23:00:246] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [0] call traceroute..
+[05-27 13:23:00:246] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [1] call traceroute..
+[05-27 13:23:00:246] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [2] call traceroute..
+[05-27 13:23:00:246] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: timer add..
+[05-27 13:23:06:252] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [3] call traceroute..
+[05-27 13:23:06:253] [I] [TROUTE] [---] [G:____:AP:_____] - period set: all aps
+[05-27 13:23:06:253] [I] [TROUTE] [---] [G:____:AP:_____] - trace period dtime=[84555(sec)]
+
+
+[05-27 13:24:02:510] [I] [TROUTE] [---] [G:____:AP:_____] - trace period dtime=[180(sec)]
+[05-27 13:24:02:510] [I] [TROUTE] [---] [G:____:AP:_____] - period set: all aps
+[05-27 13:27:03:504] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [0] call traceroute..
+[05-27 13:27:03:504] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [1] call traceroute..
+[05-27 13:27:03:504] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [2] call traceroute..
+[05-27 13:27:03:504] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: timer add..
+[05-27 13:27:09:510] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [3] call traceroute..
+[05-27 13:27:09:511] [I] [TROUTE] [---] [G:____:AP:_____] - period set: all aps
+[05-27 13:27:09:511] [I] [TROUTE] [---] [G:____:AP:_____] - trace period dtime=[81014(sec)]
+
+[05-27 13:46:00:568] [I] [TROUTE] [---] [G:____:AP:_____] - trace period dtime=[180(sec)]
+[05-27 13:46:00:568] [I] [TROUTE] [---] [G:____:AP:_____] - period set: all aps
+[05-27 13:49:00:817] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [0] call traceroute..
+[05-27 13:49:00:817] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [1] call traceroute..
+[05-27 13:49:00:817] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [2] call traceroute..
+[05-27 13:49:00:817] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: timer add..
+[05-27 13:49:06:821] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [3] call traceroute..
+[05-27 13:49:06:822] [I] [TROUTE] [---] [G:____:AP:_____] - period set: all aps
+[05-27 13:49:06:822] [I] [TROUTE] [---] [G:____:AP:_____] - trace period dtime=[88003(sec)]
+
+
+[05-27 13:51:05:328] [I] [TROUTE] [---] [G:____:AP:_____] - trace period dtime=[180(sec)]
+[05-27 13:51:05:328] [I] [TROUTE] [---] [G:____:AP:_____] - period set: all aps
+[05-27 13:54:06:067] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [0] call traceroute..
+[05-27 13:54:06:067] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [1] call traceroute..
+[05-27 13:54:06:067] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [2] call traceroute..
+[05-27 13:54:06:067] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: timer add..
+[05-27 13:54:12:071] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [3] call traceroute..
+[05-27 13:54:12:072] [I] [TROUTE] [---] [G:____:AP:_____] - period set: all aps
+[05-27 13:54:12:072] [I] [TROUTE] [---] [G:____:AP:_____] - trace period dtime=[90698(sec)]
+
+
+
+[05-27 13:54:55:458] [I] [TROUTE] [---] [G:____:AP:_____] - trace period dtime=[180(sec)]
+[05-27 13:54:55:458] [I] [TROUTE] [---] [G:____:AP:_____] - period set: all aps
+[05-27 13:57:56:291] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [0] call traceroute..
+[05-27 13:57:56:291] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [1] call traceroute..
+[05-27 13:57:56:291] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [2] call traceroute..
+[05-27 13:57:56:291] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: timer add..
+[05-27 13:58:02:297] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [3] call traceroute..
+[05-27 13:58:02:298] [I] [TROUTE] [---] [G:____:AP:_____] - period set: all aps
+[05-27 13:58:02:298] [I] [TROUTE] [---] [G:____:AP:_____] - trace period dtime=[100361(sec)]
+
+[05-27 14:02:10:871] [I] [TROUTE] [---] [G:____:AP:_____] - trace period dtime=[180(sec)]
+[05-27 14:02:10:871] [I] [TROUTE] [---] [G:____:AP:_____] - period set: all aps
+[05-27 14:05:11:731] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [0] call traceroute..
+[05-27 14:05:11:731] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [1] call traceroute..
+[05-27 14:05:11:731] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [3] call traceroute..
+[05-27 14:05:11:731] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: timer add..
+[05-27 14:05:17:738] [I] [TROUTE] [---] [G:____:AP:_____] - period set: all aps
+[05-27 14:05:17:738] [I] [TROUTE] [---] [G:____:AP:_____] - trace period dtime=[77116(sec)]
+
+[05-27 14:08:21:374] [I] [TROUTE] [---] [G:____:AP:_____] - trace period dtime=[180(sec)]
+[05-27 14:08:21:374] [I] [TROUTE] [---] [G:____:AP:_____] - period set: all aps
+[05-27 14:11:22:072] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [0] call traceroute..
+[05-27 14:11:22:073] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [1] call traceroute..
+[05-27 14:11:22:073] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [3] call traceroute..
+[05-27 14:11:22:073] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: timer add..
+[05-27 14:11:28:079] [I] [TROUTE] [---] [G:____:AP:_____] - period set: all aps
+[05-27 14:11:28:079] [I] [TROUTE] [---] [G:____:AP:_____] - trace period dtime=[63416(sec)]
+
+
+[05-27 14:14:58:843] [I] [TROUTE] [---] [G:____:AP:_____] - trace period dtime=[180(sec)]
+[05-27 14:14:58:843] [I] [TROUTE] [---] [G:____:AP:_____] - period set: all aps
+[05-27 14:17:59:437] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [0] call traceroute..
+[05-27 14:17:59:437] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [1] call traceroute..
+[05-27 14:17:59:437] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [2] call traceroute..
+[05-27 14:17:59:437] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: timer add..
+[05-27 14:18:05:443] [I] [TROUTE] [---] [G:____:AP:_____] - period progress: [3] call traceroute..
+[05-27 14:18:05:443] [I] [TROUTE] [---] [G:____:AP:_____] - period set: all aps
+[05-27 14:18:05:443] [I] [TROUTE] [---] [G:____:AP:_____] - trace period dtime=[48262(sec)]
+

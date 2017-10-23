@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v3" manifestVersion="1.0" description="Fix for KB979900" displayName="default" company="Microsoft Corporation" copyright="Microsoft Corporation" supportInformation="http://support.microsoft.com/?kbid=979900" creationTimeStamp="2010-03-03T03:41:24Z" lastUpdateTimeStamp="2010-03-03T03:41:24Z">
+	<assemblyIdentity name="Package_for_KB979900_RTM" version="6.1.1.0" language="neutral" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35"/>
+	<package identifier="KB979900" applicabilityEvaluation="deep" releaseType="Update" restart="possible" psfName="Windows6.1-KB979900-x64.psf">
+		<parent buildCompare="EQ" serviceCompare="EQ" integrate="separate" disposition="detect">
+			<assemblyIdentity name="Microsoft-ActiveDirectory-WebServices-Package" language="neutral" version="6.1.7600.16385" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+			<assemblyIdentity name="Microsoft-Windows-NetFx3-OC-Package" language="neutral" version="6.1.7600.16385" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+		</parent>
+		<installerAssembly name="Microsoft-Windows-ServicingStack" version="6.0.0.0" language="neutral" processorArchitecture="amd64" versionScope="nonSxS" publicKeyToken="31bf3856ad364e35"/>
+		<update name="979900-17_neutral_PACKAGE">
+			<package integrate="hidden">
+				<assemblyIdentity name="Package_1_for_KB979900" version="6.1.1.0" language="neutral" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35"/>
+			</package>
+		</update>
+	</package>
+</assembly>

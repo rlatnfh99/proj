@@ -1,0 +1,4 @@
+�� 있는 경우 <notLocalizable>Windows</notLocalizable> 방화벽도 설정해야 합니까?</para>
+    </question>
+    <answer>
+      <para>예, <glossaryEntryLink><linkText>라우터</linkText><uri href="mshelp://windows/?id=acfaca49-0cf4-4731-92fd-d75af614d8fb#gtmt_router_def"><summary>정의 보기</summary></uri></glossaryEntryLink> 기반 방화벽은 인터넷의 컴퓨터로부터만 보호하고 홈 네트워크의 컴퓨터로부터는 보호하지 않습니다. 예를 들어 이동 컴퓨터 또는 게스트 컴퓨터가 다른 네트워크에 연결되어 컴퓨터 웜에 감염된 다음 홈 네트워크에 연결되는 경우 라우터 기반 방화벽은 웜 확산을 방지�

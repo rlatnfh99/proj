@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v3" manifestVersion="1.0" description="Fix for KB979900" displayName="default" company="Microsoft Corporation" copyright="Microsoft Corporation" supportInformation="http://support.microsoft.com/?kbid=979900" creationTimeStamp="2010-03-03T03:41:29Z" lastUpdateTimeStamp="2010-03-03T03:41:29Z">
+	<assemblyIdentity name="Package_1_for_KB979900_BF" version="6.1.1.0" language="neutral" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35"/>
+	<package identifier="KB979900_BF" releaseType="Update" restart="possible" psfName="Windows6.1-KB979900-x64.psf">
+		<parent buildCompare="EQ" serviceCompare="EQ" integrate="separate" disposition="detect">
+			<assemblyIdentity name="Microsoft-ActiveDirectory-WebServices-Package" language="neutral" version="6.1.7600.16385" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+			<assemblyIdentity name="Microsoft-Windows-NetFx3-OC-Package" language="neutral" version="6.1.7600.16385" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+		</parent>
+		<installerAssembly name="Microsoft-Windows-ServicingStack" version="6.0.0.0" language="neutral" processorArchitecture="amd64" versionScope="nonSxS" publicKeyToken="31bf3856ad364e35"/>
+		<update name="979900-1_neutral_LDR">
+			<applicable disposition="staged">
+				<updateComponent elevate="distribution">
+					<assemblyIdentity name="WPF-WindowsBase" version="6.1.7600.20658" processorArchitecture="amd64" language="neutral" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+					<assemblyIdentity name="WPF-WindowsBase" version="6.1.7600.20658" processorArchitecture="x86" language="neutral" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+				</updateComponent>
+			</applicable>
+			<component>
+				<assemblyIdentity name="cfaff17a43e7bd7e4b708d0196f7a31a" version="6.1.7600.20658" processorArchitecture="amd64" language="neutral" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+			</component>
+		</update>
+		<update name="979900-2_neutral_LDR">
+			<applicable disposition="staged">
+				<updateComponent elevate="distribution">
+					<assemblyIdentity name="WPF-PresentationHostProxy" version="6.1.7600.20658" processorArchitecture="amd64" language="neutral" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+					<assemblyIdentity name="WPF-PresentationHostProxy" version="6.1.7600.20658" processorArchitecture="x86" language="neutral" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+				</updateComponent>
+			</applicable>
+			<component>
+				<assemblyIdentity name="c64c059ec713041a210c460f3efa2e17" version="6.1.7600.20658" processorArchitecture="amd64" language="neutral" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+			</component>
+		</update>
+		<update name="979900-3_neutral_LDR">
+			<applicable disposition="staged">
+				<updateComponent elevate="distribution">
+					<assemblyIdentity name="WPF-PresentationHostEXE" version="6.1.7600.20658" processorArchitecture="amd64" language="neutral" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+					<assemblyIdentity name="WPF-PresentationHostEXE" version="6.1.7600.20658" processorArchitecture="x86" language="neutral" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+				</updateComponent>
+			</applicable>
+			<component>
+				<assemblyIdentity name="2ea89a4298e0270035d36c672cf2d517" version="6.1.7600.20658" processorArchitecture="amd64" language="neutral" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+			</component>
+		</update>
+		<update name="979900-4_neutral_LDR">
+			<applicable disposition="staged">
+				<updateComponent elevate="distribution">
+					<assemblyIdentity name="WPF-PresentationHostDLL" version="6.1.7600.20658" processorArchitecture="amd64" language="neutral" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+					<assemblyIdentity name="WPF-PresentationHostDLL" version="6.1.7600.20658" processorArchitecture="x86" language="neutral" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+				</updateComponent>
+			</applicable>
+			<component>
+				<assemblyIdentity name="9b3d0952096b4f9efc796d0cf94c352d" version="6.1.7600.20658" processorArchitecture="amd64" language="neutral" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+			</component>
+		</update>
+		<update name="979900-5_neutral_LDR">
+			<applicable disposition="staged">
+				<updateComponent elevate="distribution">
+					<assemblyIdentity name="WPF-PresentationFramework" version="6.1.7600.20658" processorArchitecture="amd64" language="neutral" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+					<assemblyIdentity name="WPF-PresentationFramework" version="6.1.7600.20658" processorArchitecture="x86" language="neutral" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+				</updateComponent>
+			</applicable>
+			<component>
+				<assemblyIdentity name="109eab11ac75041bb67ca7cc77cb40d9" version="6.1.7600.20658" processorArchitecture="amd64" language="neutral" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+			</component>
+		</update>
+		<update name="979900-6_neutral_LDR">
+			<applicable disposition="staged">
+				<updateComponent elevate="distribution">
+					<assemblyIdentity name="PresentationCore" version="6.1.7600.20658" processorArchitecture="amd64" language="neutral" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+					<assemblyIdentity name="PresentationCore" version="6.1.7600.20658" processorArchitecture="x86" language="neutral" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+				</updateComponent>
+			</applicable>
+			<component>
+				<assemblyIdentity name="97b00536d03499dec7e1443e315b6a09" version="6.1.7600.20658" processorArchitecture="amd64" language="neutral" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+			</component>
+		</update>
+		<update name="979900-7_neutral_LDR">
+			<applicable disposition="staged">
+				<updateComponent elevate="distribution">
+					<assemblyIdentity name="WindowsBase" version="6.1.7600.20658" processorArchitecture="msil" language="neutral" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+				</updateComponent>
+			</applicable>
+			<component>
+				<assemblyIdentity name="e67a82609a0d0f6c08e630e205b1b965" version="6.1.7600.20658" processorArchitecture="amd64" language="neutral" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+			</component>
+		</update>
+		<update name="979900-8_neutral_LDR">
+			<applicable disposition="staged">
+				<updateComponent elevate="distribution">
+					<assemblyIdentity name="PresentationFramework" version="6.1.7600.20658" processorArchitecture="msil" language="neutral" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+				</updateComponent>
+			</applicable>
+			<component>
+				<assemblyIdentity name="ac8211b64814f22a38fba76a6305412b" version="6.1.7600.20658" processorArchitecture="amd64" language="neutral" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+			</component>
+		</update>
+	</package>
+</assembly>

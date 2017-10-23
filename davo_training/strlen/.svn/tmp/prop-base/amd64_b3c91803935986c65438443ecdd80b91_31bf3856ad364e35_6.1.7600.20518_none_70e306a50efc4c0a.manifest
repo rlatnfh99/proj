@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v3" manifestVersion="1.0" description="Fix for KB2913152" displayName="default" company="Microsoft Corporation" copyright="Microsoft Corporation" supportInformation="http://support.microsoft.com/?kbid=2913152" creationTimeStamp="2013-11-23T23:57:48Z" lastUpdateTimeStamp="2013-11-23T23:57:48Z">
+	<assemblyIdentity name="Package_for_KB2913152_SP1" version="6.1.2.0" language="neutral" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35"/>
+	<package identifier="KB2913152" applicabilityEvaluation="deep" releaseType="Update" restart="possible" psfName="Windows6.1-KB2913152-v2-x64.psf">
+		<parent buildCompare="EQ" serviceCompare="EQ" integrate="separate" disposition="staged">
+			<assemblyIdentity name="Win8IP-Microsoft-Windows-Multimedia-Package" language="neutral" version="7.1.7601.16492" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS"/>
+		</parent>
+		<installerAssembly name="Microsoft-Wind
